@@ -1,0 +1,43 @@
+#login {
+    text-align: center;
+    color:whitesmoke;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
+
+#Crp_login
+ {
+    background: rgb(0,0,0);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,252,0,1) 37%);
+}
+#Caixa_login {
+    border-radius: 1px;
+    border-width: 5px;
+    width: 450px;
+    height: 800px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#foto {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#cabeça {
+    background-color: black;
+}
+
+
